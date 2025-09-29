@@ -1,1 +1,1 @@
-Asistencias
+print("Asistencias")
